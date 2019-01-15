@@ -19,3 +19,5 @@
 
 [Missale Pro Usu Totius Regni Norvegie; den første 'norske' boken](https://ntnu.tind.io/universalviewer/app.html?isHomeDomain=true&isOnlyInstance=true&manifestUri=%2Frecord%2F138625%2Fmanifest&embedScriptUri=https://ntnu.tind.io/universalviewer/lib/embed.js&embedDomain=ntnu.tind.io&domain=ntnu.tind.io&isLightbox=false&locale=en-GB&config=/universalviewer/uvconfig.json&s=0&cv=0&r=0&xdm_e=https%3A%2F%2Fntnu.tind.io%2Frecord%2F138625&xdm_c=default9004&xdm_p=4)
 
+![Missale Nidrosiense](https://www.ntnu.no/documents/10599/1265314104/missale.jpg/169474ae-ed2b-4214-9587-d328d66fdffa?t=1441180842545)
+
