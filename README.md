@@ -24,3 +24,5 @@ Missalen er ikke verdifull fordi den alene er 'gammel'; den gir oss unik innsikt
 ![Missale Nidrosiense](https://www.ntnu.no/documents/10599/1265314104/missale.jpg/169474ae-ed2b-4214-9587-d328d66fdffa?t=1441180842545)
 
 ***
+Og det er bare én bok!
+![Gunnerusbibliotekets samlinger](https://upload.wikimedia.org/wikipedia/commons/4/41/NTNU_UB_Knudtzon-salen_1.jpg)
