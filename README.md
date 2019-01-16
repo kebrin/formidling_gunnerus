@@ -26,3 +26,7 @@ Missalen er ikke verdifull fordi den alene er 'gammel'; den gir oss unik innsikt
 ***
 Og det er bare én bok!
 ![Gunnerusbibliotekets samlinger](https://upload.wikimedia.org/wikipedia/commons/4/41/NTNU_UB_Knudtzon-salen_1.jpg)
+
+***
+
+[Det er ikke **bare** bøker og bilder vi digitaliserer!](https://sketchfab.com/models/782adf7cd7624947ad0234bb2dd508cb)
